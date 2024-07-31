@@ -6,4 +6,4 @@ Meu nome é **Kauê Alves**
 - Estou aprendendo o **JavaScript**
 - Uso esse espaço para **organizar** meus **projeto**s e meus **estudos**
 
-- ![](https://media.tenor.com/hCTuN6YIekoAAAAi/heart-art.gif)
+![](https://media.tenor.com/hCTuN6YIekoAAAAi/heart-art.gif)
