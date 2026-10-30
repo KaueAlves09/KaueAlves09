@@ -1,6 +1,7 @@
 ### Bem vindo ao meu perfil ! 🙌
 
 Meu nome é **Kauê Yuuki Alves Yamashita**
+Atualmente me graduando em [Engenharia de Software](https://www.facom.ufms.br/engenharia-de-software/) na [UFMS](https://www.ufms.br)
 
 ### Tecnologias
 - **C e C++**
@@ -9,6 +10,4 @@ Meu nome é **Kauê Yuuki Alves Yamashita**
 - MySQL e PostgreSQL
 - Docker
   
-- Uso esse espaço para **organizar** meus **projetos** e meus **estudos**
-
-![](https://media.tenor.com/hCTuN6YIekoAAAAi/heart-art.gif)
+Uso esse espaço para **organizar** meus **projetos** e meus **estudos**
